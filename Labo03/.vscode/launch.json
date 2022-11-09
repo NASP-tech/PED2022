@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/CICLO VIII/PED Instructora/PED2022/Labo03",
+      "program": "d:/CICLO VIII/PED Instructora/PED2022/Labo03/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

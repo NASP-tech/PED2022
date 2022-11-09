@@ -60,6 +60,3 @@ void showNode(){
         cout << "La lista circulara no tiene datos :/" << endl;
     }
 }
-
-
-

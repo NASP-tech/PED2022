@@ -31,7 +31,6 @@ lista_circular::lista_circular()
 lista_circular::~lista_circular()
 {
     if(pInicio){
-        eliminarListaCircRec(pInicio);
         pInicio = NULL;
     }
 }
